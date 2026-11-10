@@ -1,25 +1,16 @@
-# Python
 __pycache__/
 *.py[cod]
 .venv/
 venv/
-
-# Секреты и локальная конфигурация
 .env
 config.yaml
-
-# Данные
 data/
 *.csv
-
-# Результаты обучения и сохранённая модель
 results/
 saved_model*/
 *.bin
 *.onnx
 artifacts.pkl
-
-# Служебные файлы ОС и редакторов
 .DS_Store
 .vscode/
 .idea/
